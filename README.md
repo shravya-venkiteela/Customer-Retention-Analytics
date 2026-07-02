@@ -116,7 +116,7 @@ The interactive dashboard provides:
 * Top customers by CLV
 * Interactive filters for Country, Segment, and Churn
 
-Dashboard: https://github.com/shravya-venkiteela/Customer-Retention-Analytics/blob/main/dashboard.png
+Dashboard: main/dashboard.png
 ---
 
 # Key Business Insights
