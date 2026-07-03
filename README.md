@@ -116,7 +116,7 @@ The interactive dashboard provides:
 * Top customers by CLV
 * Interactive filters for Country, Segment, and Churn
 
-![Dashboard] (images/dashboard.png)
+![Dashboard](images/dashboard.png)
 
 
 
@@ -129,15 +129,5 @@ The interactive dashboard provides:
 * More than $3 million in customer value was identified as revenue at risk.
 * Win-back offers and discount campaigns represent the highest-impact retention opportunities.
 * Customer segmentation enables personalized marketing strategies that can improve retention and maximize customer lifetime value.
-
----
-
-# Future Improvements
-
-* Predict churn using machine learning models.
-* Deploy an interactive dashboard using Streamlit.
-* Integrate cloud data storage.
-* Automate the analytics pipeline using scheduled ETL workflows.
-* Build real-time customer monitoring dashboards.
 
 ---
