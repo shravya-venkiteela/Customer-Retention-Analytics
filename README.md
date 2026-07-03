@@ -116,7 +116,7 @@ The interactive dashboard provides:
 * Top customers by CLV
 * Interactive filters for Country, Segment, and Churn
 
-Dashboard: <img width="580" height="329" alt="dashboard" src="https://github.com/user-attachments/assets/fe92a428-d7ca-4801-84cf-ebb0af545976" />
+Dashboard: images/dashboard.png
 
 
 
