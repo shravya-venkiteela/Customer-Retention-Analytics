@@ -116,7 +116,7 @@ The interactive dashboard provides:
 * Top customers by CLV
 * Interactive filters for Country, Segment, and Churn
 
-[Dashboard] (image/dashboard.png)
+![Dashboard] (image/dashboard.png)
 
 
 
